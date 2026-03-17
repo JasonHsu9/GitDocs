@@ -1,4 +1,3 @@
-# GitDocs
 Git 基础用法和 Github gh 用法文档
 
 # 本地 Git 仓库并 Push 到 GitHub 完整流程
