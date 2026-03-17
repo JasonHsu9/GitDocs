@@ -1,5 +1,5 @@
-# ComfyUI_Aha_Missing_Model
-ComfyUI缺失模型弹框界面DOM偷换
+# GitDocs
+Git 基础用法和 Github gh 用法文档
 
 # 本地 Git 仓库并 Push 到 GitHub 完整流程
 
@@ -123,7 +123,7 @@ git commit -m "first commit"
 使用 SSH 地址：
 
 ```bash
-git remote add origin git@github.com:JasonHsu9/ComfyUI_Aha_Missing_Model.git
+git remote add origin git@github.com:JasonHsu9/GitDocs.git
 ```
 
 检查：
